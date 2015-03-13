@@ -94,3 +94,21 @@ main {
 p {
   margin: 13px 10px 10px 10px;
 }
+.dragon {
+  text-align: center;
+  margin: 30px 0 0 0;
+}
+img {
+  width: calc(100% / 2);
+}
+.box-1 {
+  position: relative;
+}
+.dragon-symbol-img {
+  position: absolute;
+  right: 25%;
+}
+.dragon-img {
+  position: absolute;
+  left: 25%;
+}
