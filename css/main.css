@@ -5,3 +5,41 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+header {
+  margin: 0;
+
+}
+#top {
+  background-color: #e7001d;
+  text-align: center;
+  position: relative
+}
+.big-chinese {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 25px;
+  width: 100%;
+  color: #fff;
+  font-size: 3rem;
+  text-shadow: 0px 2px 2px #000;
+
+}
+.chinese-zodiac {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  color: #fff;
+  font-size: 1.1rem;
+  top: 65%;
+  text-shadow: 0px 2px 1px #000;
+}
+.medallion {
+  width: 100px;
+  margin: 20px 0 15px 0;
+}
