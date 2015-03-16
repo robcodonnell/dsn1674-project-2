@@ -98,17 +98,56 @@ p {
   text-align: center;
   margin: 30px 0 0 0;
 }
-img {
-  width: calc(100% / 2);
-}
+
 .box-1 {
   position: relative;
 }
 .dragon-symbol-img {
   position: absolute;
-  right: 25%;
+  width: 38%;
+  left: 8%;
 }
 .dragon-img {
   position: absolute;
-  left: 25%;
+  right: 8%;
+  width: 38%;
+}
+.box-2 {
+  position: relative;
+}
+.goat-symbol-img {
+  position: absolute;
+  width: 38%;
+  right: 8%;
+}
+.goat-img {
+  position: absolute;
+  width: 38%;
+  left: 8%;
+}
+.box-3 {
+  position: relative;
+}
+.rooster-symbol-img {
+  position: absolute;
+  width: 38%;
+  left: 8%;
+}
+.rooster-img {
+  position: absolute;
+  width: 38%;
+  right: 8%;
+}
+.box-4 {
+  position: relative;
+}
+.ox-symbol-img {
+  position: absolute;
+  width: 38%;
+  right: 8%;
+}
+.ox-img {
+  position: absolute;
+  width: 38%;
+  left: 8%;
 }
