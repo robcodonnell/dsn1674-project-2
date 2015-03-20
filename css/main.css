@@ -149,6 +149,11 @@ p {
 }
 .box-3 {
   overflow: hidden;
+  background-color: #bc0017;
+}
+.rooster {
+  color: #fff;
+  text-align: center;
 }
 .roosters {
   overflow: hidden;
@@ -160,6 +165,9 @@ p {
 .rooster-img {
   float: right;
   width: 45%;
+}
+.p3 {
+  color: #fff;
 }
 .box-4 {
   overflow: hidden;
