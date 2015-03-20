@@ -55,7 +55,7 @@ ol {
 }
 nav li {
   display: inline-block;
-  width: calc(100% / 2);
+  width: 50%;
   float: left;
   color: #fff;
   background-color: #222222;
@@ -116,7 +116,7 @@ p {
   margin: 30px 0 0 0;
 }
 .dragons {
-  padding: 2% 5%;
+  padding: 2% 8% 2% 5%;
   overflow: hidden;
 }
 
@@ -148,6 +148,7 @@ p {
 }
 .goats {
   overflow: hidden;
+  padding: 2% 5% 2% 8%;
 }
 .goat-symbol-img {
   float: right;
@@ -172,6 +173,7 @@ p {
 }
 .roosters {
   overflow: hidden;
+  padding: 2% 8% 2% 5%;
 }
 .rooster-symbol-img {
   float: left;
@@ -195,6 +197,7 @@ p {
 }
 .oxen {
   overflow: hidden;
+  padding: 2% 5% 2% 8%;
 }
 .ox-symbol-img {
   float: right;
