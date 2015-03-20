@@ -61,6 +61,10 @@ nav li {
   background-color: #222222;
   padding: 10px 15px;
 }
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
 .li1 {
   border-right: 1px solid black;
   border-bottom: 1px solid black;
@@ -99,11 +103,15 @@ figure {
 p {
   clear: both;
   font-size: 0.8em;
-  text-align: center;
   margin: 10px 0 20px 0;
-  font-style: italic;
 }
-.dragon {
+.para {
+  clear: both;
+  font-size: 0.8em;
+  margin: 10px 0 20px 0;
+  padding: 0 10px;
+}
+#dragon {
   text-align: center;
   margin: 30px 0 0 0;
 }
@@ -124,11 +132,16 @@ p {
   float: right;
   width: 45%;
 }
+.p1 {
+  padding: 0 10px;
+  font-style: italic;
+  text-align: center;
+}
 .box-2 {
   overflow: hidden;
   background-color: #222222;
 }
-.goat {
+#goat {
   color: #fff;
   text-align: center;
   margin: 30px 0 0 0;
@@ -146,12 +159,14 @@ p {
 }
 .p2 {
   color: #fff;
+  font-style: italic;
+  text-align: center;
 }
 .box-3 {
   overflow: hidden;
   background-color: #bc0017;
 }
-.rooster {
+#rooster {
   color: #fff;
   text-align: center;
 }
@@ -168,12 +183,14 @@ p {
 }
 .p3 {
   color: #fff;
+  font-style: italic;
+  text-align: center;
 }
 .box-4 {
   overflow: hidden;
   background-color: #e4c22a;
 }
-.ox {
+#ox {
   text-align: center;
 }
 .oxen {
@@ -186,4 +203,18 @@ p {
 .ox-img {
   float: left;
   width: 45%;
+}
+.p4 {
+  padding: 0 10px;
+  font-style: italic;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  background-color: #222;
+  padding: 20px 0px;
+}
+footer a {
+  color: #fff;
+  font-size: 0.75em;
 }
