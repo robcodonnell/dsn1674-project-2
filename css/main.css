@@ -77,8 +77,13 @@ nav li {
   width: 100%;
 }
 main {
-  position: relative;
   width: 100%;
+
+}
+figure {
+  width: 100%;
+  position: relative;
+  margin: 0;
 }
 .sheng {
   font-style: italic;
@@ -87,30 +92,37 @@ main {
   margin: 0;
   text-align: center;
   width: 100%;
-  top: 3.9em;
+  bottom: 30px;
   color: #fff;
   text-shadow: 1px 1px 2px #000;
 }
 p {
-  margin: 13px 10px 10px 10px;
+  clear: both;
+  font-size: 0.8em;
+  text-align: center;
+  margin: 10px 0 20px 0;
+  font-style: italic;
 }
 .dragon {
   text-align: center;
   margin: 30px 0 0 0;
 }
+.dragons {
+  padding: 2% 5%;
+  overflow: hidden;
+}
 
 .box-1 {
-  position: relative;
+  background-color: #e4c22a;
+  overflow: hidden;
 }
 .dragon-symbol-img {
-  position: absolute;
-  width: 38%;
-  left: 8%;
+  float: left;
+  width: 45%;
 }
 .dragon-img {
-  position: absolute;
-  right: 8%;
-  width: 38%;
+  float: right;
+  width: 45%;
 }
 .box-2 {
   position: relative;
