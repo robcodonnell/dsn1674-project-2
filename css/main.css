@@ -41,7 +41,6 @@ header {
 }
 .medallion {
   width: 100px;
-  height: 100px;
   margin: 20px 0 15px 0;
 }
 nav {
@@ -128,13 +127,10 @@ p {
 .dragon-symbol-img {
   float: left;
   width: 45%;
-  height: 45%;
 }
 .dragon-img {
   float: right;
   width: 45%;
-  height: 45%;
-
 }
 .p1 {
   padding: 0 10px;
@@ -157,8 +153,6 @@ p {
 .goat-symbol-img {
   float: right;
   width: 45%;
-  height: 45%;
-
 }
 .goat-img {
   float: left;
