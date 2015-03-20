@@ -171,6 +171,10 @@ p {
 }
 .box-4 {
   overflow: hidden;
+  background-color: #e4c22a;
+}
+.ox {
+  text-align: center;
 }
 .oxen {
   overflow: hidden;
