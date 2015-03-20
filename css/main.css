@@ -41,6 +41,7 @@ header {
 }
 .medallion {
   width: 100px;
+  height: auto;
   margin: 20px 0 15px 0;
 }
 nav {
