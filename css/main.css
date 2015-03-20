@@ -125,41 +125,53 @@ p {
   width: 45%;
 }
 .box-2 {
-  position: relative;
+  overflow: hidden;
+  background-color: #222222;
+}
+.goat {
+  color: #fff;
+  text-align: center;
+  margin: 30px 0 0 0;
+}
+.goats {
+  overflow: hidden;
 }
 .goat-symbol-img {
-  position: absolute;
-  width: 38%;
-  right: 8%;
+  float: right;
+  width: 45%;
 }
 .goat-img {
-  position: absolute;
-  width: 38%;
-  left: 8%;
+  float: left;
+  width: 45%;
+}
+.p2 {
+  color: #fff;
 }
 .box-3 {
-  position: relative;
+  overflow: hidden;
+}
+.roosters {
+  overflow: hidden;
 }
 .rooster-symbol-img {
-  position: absolute;
-  width: 38%;
-  left: 8%;
+  float: left;
+  width: 45%;
 }
 .rooster-img {
-  position: absolute;
-  width: 38%;
-  right: 8%;
+  float: right;
+  width: 45%;
 }
 .box-4 {
-  position: relative;
+  overflow: hidden;
+}
+.oxen {
+  overflow: hidden;
 }
 .ox-symbol-img {
-  position: absolute;
-  width: 38%;
-  right: 8%;
+  float: right;
+  width: 45%;
 }
 .ox-img {
-  position: absolute;
-  width: 38%;
-  left: 8%;
+  float: left;
+  width: 45%;
 }
